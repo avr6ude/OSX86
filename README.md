@@ -1,6 +1,3 @@
-# Предыстория
-*дописать*
-
 # Установка на Intel-PC
 ## Подбор и проверка совместимости железа
 * **Процессор**: обязательно Intel (есть варианты установки на AMD, но это по-большей части костыль и не стоит того)
@@ -36,7 +33,7 @@
 * Кексты — http://osxpc.ru/downloads/k/kexts/
 * Запаска SLE — http://osxpc.ru/zapaska/
 * Clover — https://sourceforge.net/projects/cloverefiboot/files/latest/download
-* Клевер цвета хаки 3262 — https://new.vk.com/doc44638855_430072084
+* Клевер цвета хаки 3262 — https://vk.com/doc44638855_430072084
 * Настройка BIOS (общее) — http://osxpc.ru/faq/settings_bios/
 ### Обсуждение 
 * Clover — https://applelife.ru/threads/clover.42089/
