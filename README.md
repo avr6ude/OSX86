@@ -64,5 +64,74 @@
 * Kepler — https://applelife.ru/threads/nvidia-gt-x–640–650–670–680–690–770–780-titan-kepler.37131/
 * Maxwell – https://applelife.ru/threads/nvidia-gt-x–980–970–750ti–750-maxwell.44019/
 
+## Звук
+### AppleALC:
 
+* Релизы (скачивание) – http://github.com/vit9696/AppleALC/releases
+* Поддерживаемые кодеки – http://github.com/vit9696/AppleALC/wiki/Supported-codecs
+* Видео по установке – https://www.youtube.com/watch?v=xbLn_OkVuKY
 
+* AppleHDA (Если нет поддержки со стороны AppleALC) — http://osxpc.ru/kexts/audio/applehda/
+* VoodooHDA (Полностью рабочий аналог AppleHDA) — https://sourceforge.net/projects/voodoohda/files/latest/download
+* Toleda HDMI — http://tonymacx86.com/threads/audio-hdmi-audio-applehda-guide.143760/
+
+### Обсуждение:
+
+* AppleALC — https://applelife.ru/threads/applealc-dinamicheskij-patching-applehda.1171672/
+* VoodooHDA — https://applelife.ru/threads/delaem-zvuk-na-osnove-voodoohda.18413/
+
+## СЕТЬ
+
+### RJ-45 (LAN):
+
+* Полный список + обсуждение — https://applelife.ru/forums/setevye-karty.40/
+* Самые популярные — http://osxpc.ru/category/kexts/internet/
+
+### Wi-Fi (WLAN):
+
+* Новая таблица (NGFF+PCI-E) — https://pp.vk.me/c630723/v630723383/271b8/8P0Uz2vtNIE.jpg
+* Старая таблица (только PCI-e) — https://new.vk.com/doc-12954845_437058293
+* Также стоит взглянуть — https://github.com/toleda/wireless_half-mini
+
+## PS/2, I2C (Клавиатура, мышь, тачпад)
+
+* Десктопный вариант — http://osxpc.ru/kexts/ps2/vdps2/
+* ELAN — http://osxpc.ru/kexts/ps2/elan/
+* Synaptic и прочие — http://osxpc.ru/kexts/ps2/synaptic/
+
+## АККУМУЛЯТОР
+
+* Кекст — https://bitbucket.org/RehabMan/os-x-acpi-battery-driver/downloads/RehabMan-Battery-2015-1230.zip
+* Патчи для DSDT (репозиторий) — http://raw.github.com/RehabMan/Laptop-DSDT-Patch/master
+
+## МАТЕРИНСКИЕ ПЛАТЫ
+
+* Предпочтительны к покупке — http://osxpc.ru/motherboards/
+
+### Обсуждения:
+
+* Все — https://applelife.ru/categories/materinskie-platy.26/
+* Asrock — https://applelife.ru/forums/asrock.29/
+* Asus — https://applelife.ru/forums/asus.28/
+* Gigabyte — https://applelife.ru/forums/gigabyte.33/
+* Intel — https://applelife.ru/forums/intel.34/
+* MSI — https://applelife.ru/forums/msi.35/
+
+## НОУТБУКИ
+
+* Все — https://applelife.ru/forums/noutbuki.42/
+* Acer — https://applelife.ru/search/1296474/?q=Acer&o=relevance&c[node]=42
+* Asus — https://applelife.ru/search/1296475/?q=Asus&o=relevance&c[node]=42
+* Dell — https://applelife.ru/search/1296476/?q=Dell&o=relevance&c[node]=42
+* Lenovo — https://applelife.ru/search/1296473/?q=Lenovo&o=relevance&c[node]=42
+* Samsung — https://applelife.ru/search/1296478/?q=Samsung&o=relevance&c[node]=42
+* Toshiba — https://applelife.ru/search/1296480/?q=Toshiba&o=relevance&c[node]=42
+* HP – https://applelife.ru/search/1296481/?q=HP&o=relevance&c[node]=42
+
+## СИСТЕМА И ЮЗАБЕЛЬНОСТЬ
+
+* Завод MacAppStore и iCloud; iMessage и FaceTime; HandOff и Continuity — http://osxpc.ru/faq/apple-services
+* Работа с ACPI (DSDT, SSDT) — http://osxpc.ru/faq/acpi-manual/
+* Регулировка яркости в ноутбуках — http://osxpc.ru/faq/brightness-laptop/
+* Регулировка яркости клавишами Fn — http://osxpc.ru/faq/backlight-fn/
+* Ошибка boot0: error — http://osxpc.ru/faq/boot0-error/
