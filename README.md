@@ -154,16 +154,6 @@
 * Intel — https://applelife.ru/forums/intel.34/
 * MSI — https://applelife.ru/forums/msi.35/
 
-## НОУТБУКИ
-
-* Все — https://applelife.ru/forums/noutbuki.42/
-* Acer — https://applelife.ru/search/1296474/?q=Acer&o=relevance&c[node]=42
-* Asus — https://applelife.ru/search/1296475/?q=Asus&o=relevance&c[node]=42
-* Dell — https://applelife.ru/search/1296476/?q=Dell&o=relevance&c[node]=42
-* Lenovo — https://applelife.ru/search/1296473/?q=Lenovo&o=relevance&c[node]=42
-* Samsung — https://applelife.ru/search/1296478/?q=Samsung&o=relevance&c[node]=42
-* Toshiba — https://applelife.ru/search/1296480/?q=Toshiba&o=relevance&c[node]=42
-* HP – https://applelife.ru/search/1296481/?q=HP&o=relevance&c[node]=42
 
 ## СИСТЕМА И ЮЗАБЕЛЬНОСТЬ
 
