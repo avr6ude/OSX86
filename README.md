@@ -99,13 +99,14 @@
 * В разделе `Drivers64` дополнительно выбираете `ApfsDriverLoader-64` (если вдруг устанавливаете High Sierra на SSD).
 * `Установить системные RC-скрипты на основной раздел`
 > Про назначение других драйверов можно почитать в "Клевере цвета хаки".
+
 После установки можно и нужно скопировать `config.plist`, папки `kexts` и `ACPI\patched` (если использовался) с загрузочной флешки в соответствующие места на появившемся разделе EFI системного диска.
 # Полезные ссылки 
 ## Главное 
 * Дистрибутивы — http://osxpc.ru/category/downloads/osx/
 * Кексты 1 – https://www.applelife.ru/threads/2942933
 * Кексты 2 — http://osxpc.ru/downloads/k/kexts/
-* Запаска SLE — http://osxpc.ru/zapaska/
+* Запаска /S/L/E — http://osxpc.ru/zapaska/
 * Clover — https://sourceforge.net/projects/cloverefiboot/files/latest/download
 * Клевер цвета хаки 4542 — https://i.applelife.ru/2018/06/431578_Klever_cveta_xaki_4542.pdf
 * "Чистый" config.plist для редактирования под себя – https://sourceforge.net/p/cloverefiboot/code/HEAD/tree/CloverPackage/CloverV2/EFI/CLOVER/config-sample.plist 
