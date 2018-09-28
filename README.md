@@ -156,8 +156,8 @@
 
 ## Графика
 ### Intel
-* Актуальный мануал – https://applelife.ru/posts/729378
-* Intel Quick Sync – https://applelife.ru/threads/17923
+* Актуальный мануал – https://applelife.ru/threads/1289648
+* Intel Quick Sync – https://applelife.ru/threads/817923/
 * Skylake HD – http://osxpc.ru/zavod/gpu/intel/skylake/
 * Broadwell HD – http://osxpc.ru/zavod/gpu/intel/broadwell/
 * Haswell HD – http://osxpc.ru/zavod/gpu/intel/haswell/
