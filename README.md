@@ -43,13 +43,6 @@
 
 Теперь у вас есть готовая USB с образом **macOS**. Вы совершили свой первый шаг к установке Хакинтоша.
 
-
-**Установка:**
-* Скачиваем сам [кекст](https://sourceforge.net/projects/voodoohda/files/VoodooHDA.kext-2.9.0d10.zip/download) или [установщик](https://sourceforge.net/projects/voodoohda/files/VoodooHDA-2.8.8.pkg.zip/download).
-* Кладем кекст в `/System/Library/Extensions` и чиним права, или устанавливаем через [Kext Utility](http://cvad-mac.narod.ru/files/Kext_Utility.app.v2.6.6.zip).
-* Перезагружаемся.
-* Про дополнительную настройку VoodooHDA можно почитать [здесь](https://applelife.ru/posts/589135).
-
 ## Установка образа на HDD/SSD
 1. Для начала рекомендуется внести минимальные правки в config.plist, прописав в `Boot/Arguments` `-v debug=0x100 keepsyms=1`, а если ставите High Sierra, то и добавить [патч на показ паники](https://4pda.ru/forum/index.php?act=findpost&pid=62112835&anchor=Spoil-62112835-1).
 2. Положите kext-ы на сеть, звук и видео. 
@@ -109,6 +102,11 @@
 
 ### VoodooHDA: 
 * Сможет "завести" почти любой аудиокодек, но настройка самого расширения иногда очень проблематична. 
+**Установка:**
+* Скачиваем сам [кекст](https://sourceforge.net/projects/voodoohda/files/latest/download).
+* Кладём кекст в `/EFI/CLOVER/kexts/Other`.
+* Перезагружаемся.
+* Про дополнительную настройку VoodooHDA можно почитать [здесь](https://applelife.ru/posts/589135).
 
 ## Wi-Fi
 ### Atheros AR****
